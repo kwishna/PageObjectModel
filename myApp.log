@@ -1,0 +1,10 @@
+[INFO ] 2019-02-07 11:45:31.723 [main] Testing - Setting Up In BeforeSuite Of Base Class
+[ERROR] 2019-02-07 11:45:34.577 [main] Testing - Setting Up In Page Factory Of TC001 Class
+[]  INFO [main] - 2019-02-07 11:51:15.522; - (Base.java:20) - Setting Up In BeforeSuite Of Base Class
+[] ERROR [main] - 2019-02-07 11:51:18.522; - (TC001.java:17) - Setting Up In Page Factory Of TC001 Class
+[]  INFO [main] - 2019-02-07 12:04:44.412; - (Base.java:20) - Setting Up In BeforeSuite Of Base Class
+[] ERROR [main] - 2019-02-07 12:04:47.462; - (TC001.java:17) - Setting Up In Page Factory Of TC001 Class
+[]  INFO [main] - 2019-02-07 12:06:49.017 - (Base.java:20) - Setting Up In BeforeSuite Of Base Class
+[] ERROR [main] - 2019-02-07 12:06:52.137 - (TC001.java:17) - Setting Up In Page Factory Of TC001 Class
+[]  INFO [main] - 2019-02-07 12:07:51.032 - (Base.java:20) - Setting Up In BeforeSuite Of Base Class
+[] ERROR [main] - 2019-02-07 12:07:54.142 - (TC001.java:17) - Setting Up In Page Factory Of TC001 Class
