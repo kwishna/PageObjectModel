@@ -16,6 +16,10 @@ public class SignUpPage {
 	public SignUpPage(WebDriver driver) {
 		
 		PageFactory.initElements(driver, this);
+
+// Or, For ajax Loading Pages.
+//		AjaxElementLocatorFactory factory = new AjaxElementLocatorFactory(getDriver(), 100);
+//		PageFactory.initElements(factory, this);
 	}
 	
 	@FindBys({
